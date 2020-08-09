@@ -51,7 +51,9 @@ Seealso: http://juce-demos.atsushieno.dev/
 
 ## Re:VIEW
 
-- [vscode-language-review](https://github.com/atsushieno/vscode-language-review) VSCode Re:VIEW support
+![vscode-language-review in action](https://raw.githubusercontent.com/atsushieno/vscode-language-review/master/docs/images/sshot-preview.png)
+
+[![vscode-language-review stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=aria2web)](https://github.com/atsushieno/vscode-language-review)
 
 ## miscellaneous
 
