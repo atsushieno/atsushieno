@@ -53,7 +53,14 @@ Seealso: http://juce-demos.atsushieno.dev/
 
 ![vscode-language-review in action](https://raw.githubusercontent.com/atsushieno/vscode-language-review/master/docs/images/sshot-preview.png)
 
-[![vscode-language-review stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=aria2web)](https://github.com/atsushieno/vscode-language-review)
+[![vscode-language-review stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=vscode-language-review)](https://github.com/atsushieno/vscode-language-review)
+
+### MML compiler and co.
+
+- [mugene](https://github.com/atsushieno/mugene) - MML compiler mugene, including its vscode extension with LSP support
+  - [mugene-guide-book](https://github.com/atsushieno/mugene-guide-book) - book sources for MML Compiler mugene guide book (Japanese)
+- [notium](https://github.com/atsushieno/notium) - experimental .NET API transformed from MML operations
+- [augene](https://github.com/atsushieno/augene) - MML compiler integration with tracktion_engine, MML to MIDI to tracktionedit with JUCE AudioPluginHost help.
 
 ## miscellaneous
 
@@ -66,15 +73,14 @@ They are not actively developed anymore. Though my music tools are still importa
 ### cross platform .NET MIDI API
 
 - [managed-midi](https://github.com/atsushieno/managed-midi) - cross-platform .NET native MIDI access, as well as common MIDI related features (MidiPlayer, SMF manipulation, MIDI module database, etc.)
-- [xmmk](https://github.com/atsushieno/xmmk) - cross-platform (Xwt) virtual MIDI keyboard on PC keyboard
-- [xmdsp](https://github.com/atsushieno/xmdsp) - cross-platform (Xwt) visual MIDI player
 
-### MML compiler and co.
+![xmmk in action](https://raw.githubusercontent.com/atsushieno/xmmk/master/screenshot.png)
 
-- [mugene](https://github.com/atsushieno/mugene) - MML compiler mugene, including its vscode extension with LSP support
-  - [mugene-guide-book](https://github.com/atsushieno/mugene-guide-book) - book sources for MML Compiler mugene guide book (Japanese)
-- [notium](https://github.com/atsushieno/notium) - experimental .NET API transformed from MML operations
-- [augene](https://github.com/atsushieno/augene) - MML compiler integration with tracktion_engine, MML to MIDI to tracktionedit with JUCE AudioPluginHost help.
+[![xmmk stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=xmmk)](https://github.com/atsushieno/xmmk)
+
+![xmdsp in action](https://raw.githubusercontent.com/atsushieno/xmdsp/master/xmdsp-sshot.png)
+
+[![xmdsp stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=xmdsp)](https://github.com/atsushieno/xmdsp)
 
 ### Language toolchain hacks
 
