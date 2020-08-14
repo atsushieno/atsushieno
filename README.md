@@ -1,7 +1,5 @@
 # atsushieno's live github repos
 
-![user stats](https://github-readme-stats.vercel.app/api?username=atsushieno&show_icons=true&theme=tokyonight)
-
 (It is not my CV, so I don't list anything other than my repos. No mention on [mono](https://github.com/mono/mono), [xamarin-android](https://github.com/xamarin/xamarin-android) or [monodevelop](https://github.com/mono/monodevelop). No mention on things outside github such as [tech books](https://xamaritans.booth.pm/) or [session talks](https://speakerdeck.com/atsushieno). If you are interested in working together let me know.)
 
 ## AAP and related projects
