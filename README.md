@@ -18,6 +18,8 @@
 
 [![aria2web stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=aria2web)](https://github.com/atsushieno/aria2web)
 
+[![ayumi-lv2 stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=ayumi-lv2)](https://github.com/atsushieno/ayumi-lv2)
+
 ### LV2 for Android
 
 - https://github.com/atsushieno/cerbero/tree/aap has some hidden gems, namely the following forks
