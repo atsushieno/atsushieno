@@ -2,6 +2,10 @@
 
 (It is not my CV, so I don't list anything other than my repos. No mention on [mono](https://github.com/mono/mono), [xamarin-android](https://github.com/xamarin/xamarin-android) or [monodevelop](https://github.com/mono/monodevelop). No mention on things outside github such as [tech books](https://xamaritans.booth.pm/) or [session talks](https://speakerdeck.com/atsushieno). If you are interested in working together let me know.)
 
+## MIDI 2.0
+
+[![cmidi2 stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=cmidi2)](https://github.com/atsushieno/cmidi2)
+
 ## AAP and related projects
 
 [![AAP demo 20200708](http://img.youtube.com/vi/gKCpHvYzupU/0.jpg)](http://www.youtube.com/watch?v=gKCpHvYzupU "AAP demo 20200708")
