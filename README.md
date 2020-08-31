@@ -6,6 +6,8 @@
 
 [![cmidi2 stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=cmidi2)](https://github.com/atsushieno/cmidi2)
 
+[![lv2-midi2 stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=lv2-midi2)](https://github.com/atsushieno/lv2-midi2)
+
 ## AAP and related projects
 
 [![AAP demo 20200708](http://img.youtube.com/vi/gKCpHvYzupU/0.jpg)](http://www.youtube.com/watch?v=gKCpHvYzupU "AAP demo 20200708")
