@@ -2,6 +2,8 @@
 
 (It is not my CV, so I don't list anything other than my repos. No mention on [mono](https://github.com/mono/mono), [xamarin-android](https://github.com/xamarin/xamarin-android) or [monodevelop](https://github.com/mono/monodevelop). No mention on things outside github such as [tech books](https://xamaritans.booth.pm/) or [session talks](https://speakerdeck.com/atsushieno). If you are interested in working together let me know.)
 
+I have created a Discord space for support/discussions for my projects at https://discord.gg/c3CRgv . It would be mostly quiet but feel free to post there if you prefer it over individual project issues.
+
 ## MIDI 2.0
 
 [![cmidi2 stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=cmidi2)](https://github.com/atsushieno/cmidi2)
