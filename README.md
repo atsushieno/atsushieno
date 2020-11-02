@@ -19,7 +19,6 @@ I have created a Discord space for support/discussions for my projects at https:
 [![aap-juce stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=aap-juce)](https://github.com/atsushieno/aap-juce)
 [![android-native-audio-builders stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=android-native-audio-builders)](https://github.com/atsushieno/android-native-audio-builders)
 
-
 ## LV2
 
 ![aria2web sshot](https://raw.githubusercontent.com/atsushieno/aria2web/main/aria2web-lv2ui-in-action.png)
@@ -43,10 +42,6 @@ Seealso: http://juce-demos.atsushieno.dev/
 - https://github.com/atsushieno/ADLplug/tree/android - ADLplug/OPNplug Android/Emscripten ports
 - https://github.com/atsushieno/juicysfplugin - statically linked juicysfplugin.so to avoid external fluidsynth 2.0 dependency.
 - https://github.com/atsushieno/dexed/tree/emscripten - Dexed Emscripten port.
-
-## ndkports
-
-- https://github.com/atsushieno/ndkports (not really maintained)
 
 ## Fluidsynth for Android
 
@@ -74,33 +69,16 @@ Seealso: http://juce-demos.atsushieno.dev/
 
 - [msfa-midi-device-service](https://github.com/atsushieno/msfa-midi-device-service) - MidiDeviceService for MSFA (music-synthesizer-for-Android)
 
-## Legacy bits
+## Legacy .NET bits (and sometimes not legacy)
 
-They are not actively developed anymore. Though my music tools are still important and will be ported to somewhere at some stage.
+They are not actively developed and not much support expected anymore. Though my music tools are still important and will be ported to somewhere at some stage.
 
-### cross platform .NET MIDI API
-
-- [managed-midi](https://github.com/atsushieno/managed-midi) - cross-platform .NET native MIDI access, as well as common MIDI related features (MidiPlayer, SMF manipulation, MIDI module database, etc.)
-
-![xmmk in action](https://raw.githubusercontent.com/atsushieno/xmmk/master/screenshot.png)
-
-[![xmmk stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=xmmk)](https://github.com/atsushieno/xmmk)
-
-![xmdsp in action](https://raw.githubusercontent.com/atsushieno/xmdsp/master/xmdsp-sshot.png)
-
-[![xmdsp stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=xmdsp)](https://github.com/atsushieno/xmdsp)
-
-### Language toolchain hacks
-
+- [managed-midi](https://github.com/atsushieno/managed-midi) - cross-platform MIDI access and abstraction API with SMF I/O support.
+- [xmmk](https://github.com/atsushieno/xmmk) - virtual MIDI keyboard, Xwt
+- [xmdsp](https://github.com/atsushieno/xmdsp) - visual MIDI player, Xwt
 - [nclang](https://github.com/atsushieno/nclang) - libclang .NET binding and P/Invoke generator. I use it's PInvokeGenerator everywhere in my native interop repos (but not this one itself; it doesn't make a lot of sense yet).
-
-### DAW hacks
-
 - [ntractive](https://github.com/atsushieno/ntracktive) - manipulate Tracktion Waveform edit files (without tracktion_engine)
 - [sf2xrni](https://github.com/atsushieno/sf2xrni) - Soundfont to Renoise XRNI converter
-
-### Miscellaneous
-
 - [lilv-sharp](https://github.com/atsushieno/lilv-sharp) - .NET binding for Lilv (LV2 hosting / query).
 - [oboe-sharp](https://github.com/atsushieno/oboe-sharp) - .NET binding for Oboe (with "oboe-c" build)
 - [libsoundio-sharp](https://github.com/atsushieno/libsoundio-sharp) - .NET binding for libsoundio
@@ -109,12 +87,3 @@ They are not actively developed anymore. Though my music tools are still importa
 - [generic-codedom](https://github.com/atsushieno/generic-codedom) - for those who wants to use generics on System.CodeDom API.
 - [xamarin-android-schema-generator](https://github.com/atsushieno/xamarin-android-shema-generator) - instant XML Schema generator for Android resources for IDE completion.
 - [world-sharp](https://github.com/atsushieno/world-sharp) - .NET bindings for World vocal synthesis engine.
-
-## Archived projects which might be still interesting
-
-- [falplayer-android-j](https://github.com/atsushieno/falplayer-android-j) - copy ogg files from FALCOM PC games (Ys, Legend of Heroes) which have LOOPSTART/LOOPLENGTH and play them on Android.
-  - [falplayer-android](https://github.com/atsushieno/falplayer-android) - ... using Xamarin.Android (legacy)
-- [asparser](https://github.com/atsushieno/asparser) - partial ActionScript3 parser and runtime port to .NET.
-- [tsukimi](https://github.com/atsushieno/tsukimi) - Processing port to Sliverlight/Moonlight.
-- [md-typescript](https://github.com/atsushieno/md-typescript) - past attempt to build and run typescript projects in monoDevelop.
-- [monodevelop-mercurial](https://github.com/atsushieno/monodevelop-mercurial) - Mercurial addin for MonoDevelop (old)
