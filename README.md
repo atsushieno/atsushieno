@@ -15,15 +15,15 @@ I have created a Discord space for support/discussions for my projects at https:
 [![AAP demo 20200708](http://img.youtube.com/vi/gKCpHvYzupU/0.jpg)](http://www.youtube.com/watch?v=gKCpHvYzupU "AAP demo 20200708")
 
 [![android-audio-plugin-framework stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=android-audio-plugin-framework)](https://github.com/atsushieno/android-audio-plugin-framework)
-[![aap-lv2 stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=aap-lv2)](https://github.com/atsushieno/aap-lv2)
-[![aap-juce stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=aap-juce)](https://github.com/atsushieno/aap-juce)
+[![aap-lv2 stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=aap-lv2)](https://github.com/atsushieno/aap-lv2) - there are handful of individual port repos too.
+[![aap-juce stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=aap-juce)](https://github.com/atsushieno/aap-juce) - there are bunch of individual port repos too.
 [![android-native-audio-builders stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=android-native-audio-builders)](https://github.com/atsushieno/android-native-audio-builders)
 
 ## LV2
 
-![aria2web sshot](https://raw.githubusercontent.com/atsushieno/aria2web/main/aria2web-lv2ui-in-action.png)
+![aqua sshot](https://raw.githubusercontent.com/atsushieno/aqua/main/aqua-lv2ui-in-action.png)
 
-[![aria2web stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=aria2web)](https://github.com/atsushieno/aria2web)
+[![aqua stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=aqua)](https://github.com/atsushieno/aqua)
 
 [![ayumi-lv2 stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=ayumi-lv2)](https://github.com/atsushieno/ayumi-lv2)
 
@@ -38,6 +38,7 @@ I have created a Discord space for support/discussions for my projects at https:
 
 Seealso: http://juce-demos.atsushieno.dev/
 
+- https://github.com/atsushieno/android-juce-cmake - template app project for Android + JUCE + CMake
 - https://github.com/atsushieno/JUCE/tree/juce_emscripten - fork of Dreamtonics/juce_emscripten (Web MIDI support, Projucer enhancements, etc.)
 - https://github.com/atsushieno/ADLplug/tree/android - ADLplug/OPNplug Android/Emscripten ports
 - https://github.com/atsushieno/juicysfplugin - statically linked juicysfplugin.so to avoid external fluidsynth 2.0 dependency.
