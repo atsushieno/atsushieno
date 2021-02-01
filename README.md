@@ -15,9 +15,11 @@ I am reachable as @atsushieno on mastodon.cloud, twitter, or facebook. I'm also 
 [![AAP demo 20200708](http://img.youtube.com/vi/gKCpHvYzupU/0.jpg)](http://www.youtube.com/watch?v=gKCpHvYzupU "AAP demo 20200708")
 
 [![android-audio-plugin-framework stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=android-audio-plugin-framework)](https://github.com/atsushieno/android-audio-plugin-framework)
-[![aap-lv2 stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=aap-lv2)](https://github.com/atsushieno/aap-lv2) - there are handful of individual port repos too.
-[![aap-juce stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=aap-juce)](https://github.com/atsushieno/aap-juce) - there are bunch of individual port repos too.
+[![aap-lv2 stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=aap-lv2)](https://github.com/atsushieno/aap-lv2)
+[![aap-juce stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=aap-juce)](https://github.com/atsushieno/aap-juce)
 [![android-native-audio-builders stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=android-native-audio-builders)](https://github.com/atsushieno/android-native-audio-builders)
+
+There are various aap-lv2 ports and aap-juce ports in split repos too.
 
 ## LV2
 
