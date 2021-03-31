@@ -4,11 +4,6 @@
 
 I am reachable as @atsushieno on mastodon.cloud, twitter, or facebook. I'm also lurking around [theaudioprogrammer](https://theaudioprogrammer.com/) discord.
 
-## MIDI 2.0
-
-[![cmidi2 stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=cmidi2)](https://github.com/atsushieno/cmidi2)
-
-[![lv2-midi2 stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=lv2-midi2)](https://github.com/atsushieno/lv2-midi2)
 
 ## AAP and related projects
 
@@ -20,6 +15,30 @@ I am reachable as @atsushieno on mastodon.cloud, twitter, or facebook. I'm also 
 [![android-native-audio-builders stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=android-native-audio-builders)](https://github.com/atsushieno/android-native-audio-builders)
 
 There are various aap-lv2 ports and aap-juce ports in split repos too.
+
+## cross-platform MIDI access libraries and applications
+
+I used to develop C# library for MIDI access and SMF manipulation, and they are migrating to Kotlin.
+
+| project | C# (mostly deprecated) | Kotlin (alive) |
+|-|-|-|
+| cross-platform MIDI access and abstraction API with SMF I/O support. | [managed-midi](https://github.com/atsushieno/managed-midi) | [ktmidi](https://github.com/atsushieno/ktmidi) |
+| virtual MIDI keyboard | [xmmk](https://github.com/atsushieno/xmmk) / Xwt | [kmmk](https://github.com/atsushieno/kmmk) / Jetpack Compose |
+| visual MIDI player | [xmdsp](https://github.com/atsushieno/xmdsp) / Xwt | - |
+| MML compiler mugene | [mugene](https://github.com/atsushieno/mugene) - including its vscode extension with LSP support | [mugene-ng](https://github.com/atsushieno/mugene-ng) |
+| experimental .NET API transformed from MML operations | [notium](https://github.com/atsushieno/notium) | [notium-ng](https://github.com/atsushieno/notium-ng) |
+
+## MML compiler related
+
+- [augene](https://github.com/atsushieno/augene) - MML compiler integration with tracktion_engine, MML to MIDI to tracktionedit with JUCE AudioPluginHost help.
+- [mugene-guide-book](https://github.com/atsushieno/mugene-guide-book) - book sources for MML Compiler mugene guide book (Japanese)
+
+
+## MIDI 2.0
+
+[![cmidi2 stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=cmidi2)](https://github.com/atsushieno/cmidi2)
+
+[![lv2-midi2 stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=lv2-midi2)](https://github.com/atsushieno/lv2-midi2)
 
 ## LV2
 
@@ -61,13 +80,6 @@ Seealso: http://juce-demos.atsushieno.dev/
 
 [![vscode-language-review stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=vscode-language-review)](https://github.com/atsushieno/vscode-language-review)
 
-### MML compiler and co.
-
-- [mugene](https://github.com/atsushieno/mugene) - MML compiler mugene, including its vscode extension with LSP support
-  - [mugene-guide-book](https://github.com/atsushieno/mugene-guide-book) - book sources for MML Compiler mugene guide book (Japanese)
-- [notium](https://github.com/atsushieno/notium) - experimental .NET API transformed from MML operations
-- [augene](https://github.com/atsushieno/augene) - MML compiler integration with tracktion_engine, MML to MIDI to tracktionedit with JUCE AudioPluginHost help.
-
 ## miscellaneous
 
 - [msfa-midi-device-service](https://github.com/atsushieno/msfa-midi-device-service) - MidiDeviceService for MSFA (music-synthesizer-for-Android)
@@ -76,9 +88,6 @@ Seealso: http://juce-demos.atsushieno.dev/
 
 They are not actively developed and not much support expected anymore. Though my music tools are still important and will be ported to somewhere at some stage.
 
-- [managed-midi](https://github.com/atsushieno/managed-midi) - cross-platform MIDI access and abstraction API with SMF I/O support.
-- [xmmk](https://github.com/atsushieno/xmmk) - virtual MIDI keyboard, Xwt
-- [xmdsp](https://github.com/atsushieno/xmdsp) - visual MIDI player, Xwt
 - [nclang](https://github.com/atsushieno/nclang) - libclang .NET binding and P/Invoke generator. I use it's PInvokeGenerator everywhere in my native interop repos (but not this one itself; it doesn't make a lot of sense yet).
 - [ntractive](https://github.com/atsushieno/ntracktive) - manipulate Tracktion Waveform edit files (without tracktion_engine)
 - [sf2xrni](https://github.com/atsushieno/sf2xrni) - Soundfont to Renoise XRNI converter
