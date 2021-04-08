@@ -22,10 +22,10 @@ I used to develop C# library for MIDI access and SMF manipulation, and they are 
 
 | project | C# (mostly deprecated) | Kotlin (alive) |
 |-|-|-|
-| cross-platform MIDI access and abstraction API with SMF I/O support. | [managed-midi](https://github.com/atsushieno/managed-midi) | [ktmidi](https://github.com/atsushieno/ktmidi) |
+| cross-platform MIDI access and abstraction API with SMF I/O support. | [managed-midi](https://github.com/atsushieno/managed-midi) - MIDI 1.0 | [ktmidi](https://github.com/atsushieno/ktmidi) - MIDI 1.0 and 2.0 |
 | virtual MIDI keyboard | [xmmk](https://github.com/atsushieno/xmmk) / Xwt | [kmmk](https://github.com/atsushieno/kmmk) / Jetpack Compose |
 | visual MIDI player | [xmdsp](https://github.com/atsushieno/xmdsp) / Xwt | - |
-| MML compiler mugene | [mugene](https://github.com/atsushieno/mugene) - including its vscode extension with LSP support | [mugene-ng](https://github.com/atsushieno/mugene-ng) |
+| MML compiler mugene | [mugene](https://github.com/atsushieno/mugene) - including its vscode extension with LSP support | [mugene-ng](https://github.com/atsushieno/mugene-ng) - MIDI 2.0 UMP stream support |
 | experimental .NET API transformed from MML operations | [notium](https://github.com/atsushieno/notium) | [notium-ng](https://github.com/atsushieno/notium-ng) |
 
 ## MML compiler related
