@@ -1,11 +1,10 @@
 # atsushieno's live github repos
 
-(It is not my CV, so I don't list anything other than my repos. No mention on [mono](https://github.com/mono/mono), [xamarin-android](https://github.com/xamarin/xamarin-android) or [monodevelop](https://github.com/mono/monodevelop). No mention on things outside github such as [tech books](https://xamaritans.booth.pm/) or [session talks](https://speakerdeck.com/atsushieno). If you are interested in working together let me know.)
+(It is not my CV, so I don't list anything other than my repos, therefore no mention on past Mono and Xamarin bits. No mention on things outside github such as [tech books](https://xamaritans.booth.pm/) or [session talks](https://speakerdeck.com/atsushieno). If you are interested in working together let me know.)
 
-I am reachable as @atsushieno on mastodon.cloud, twitter, or facebook. I'm also lurking around [theaudioprogrammer](https://theaudioprogrammer.com/) discord.
+I am reachable as @atsushieno on mastodon.cloud, twitter, or facebook. I'm also lurking around some audio dev. discord servers e.g. [theaudioprogrammer](https://theaudioprogrammer.com/)
 
-
-## AAP and related projects
+## Android Audio Plugin and related projects
 
 [![AAP demo 20200708](http://img.youtube.com/vi/gKCpHvYzupU/0.jpg)](http://www.youtube.com/watch?v=gKCpHvYzupU "AAP demo 20200708")
 
@@ -20,25 +19,25 @@ There are various aap-lv2 ports and aap-juce ports in split repos too.
 
 I used to develop C# library for MIDI access and SMF manipulation, and they are migrating to Kotlin.
 
-| project | C# (mostly deprecated) | Kotlin (alive) |
-|-|-|-|
-| cross-platform MIDI access and abstraction API with SMF I/O support. | [managed-midi](https://github.com/atsushieno/managed-midi) - MIDI 1.0 | [ktmidi](https://github.com/atsushieno/ktmidi) - MIDI 1.0 and 2.0 |
-| virtual MIDI keyboard | [xmmk](https://github.com/atsushieno/xmmk) / Xwt | [kmmk](https://github.com/atsushieno/kmmk) / Jetpack Compose |
-| visual MIDI player | [xmdsp](https://github.com/atsushieno/xmdsp) / Xwt | - |
-| MML compiler mugene | [mugene](https://github.com/atsushieno/mugene) - including its vscode extension with LSP support | [mugene-ng](https://github.com/atsushieno/mugene-ng) - MIDI 2.0 UMP stream support |
-| experimental .NET API transformed from MML operations | [notium](https://github.com/atsushieno/notium) | [notium-ng](https://github.com/atsushieno/notium-ng) |
+| C# (mostly deprecated) | Kotlin (alive) |
+|-|-|
+| [![managed-midi stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=managed-midi)](https://github.com/atsushieno/managed-midi) | [![ktmidi stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=ktmidi)](https://github.com/atsushieno/ktmidi) |
+| [![alsa-sharp stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=alsa-sharp)](https://github.com/atsushieno/alsa-sharp) | [![alsakt stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=alsakt)](https://github.com/atsushieno/alsakt) [![ktmidi-jvm-desktop stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=ktmidi-jvm-desktop)](https://github.com/atsushieno/ktmidi-jvm-desktop) |
+| [![mugene stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=mugene)](https://github.com/atsushieno/mugene) | [![mugene-ng stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=mugene-ng)](https://github.com/atsushieno/mugene-ng) |
+| [![xmmk stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=xmmk)](https://github.com/atsushieno/xmmk) | [![kmmk stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=kmmk)](https://github.com/atsushieno/kmmk) |
+| [![notium stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=notium)](https://github.com/atsushieno/notium) | [![notium-ng stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=notium-ng)](https://github.com/atsushieno/notium-ng) |
+| [xmdsp](https://github.com/atsushieno/xmdsp) / visual MIDI player, Xwt | (kmdsp?) |
+
+### MIDI 2.0 libraries in C
+
+[![cmidi2 stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=cmidi2)](https://github.com/atsushieno/cmidi2)
+
+[![lv2-midi2 stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=lv2-midi2)](https://github.com/atsushieno/lv2-midi2)
 
 ## MML compiler related
 
 - [augene](https://github.com/atsushieno/augene) - MML compiler integration with tracktion_engine, MML to MIDI to tracktionedit with JUCE AudioPluginHost help.
 - [mugene-guide-book](https://github.com/atsushieno/mugene-guide-book) - book sources for MML Compiler mugene guide book (Japanese)
-
-
-## MIDI 2.0
-
-[![cmidi2 stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=cmidi2)](https://github.com/atsushieno/cmidi2)
-
-[![lv2-midi2 stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=lv2-midi2)](https://github.com/atsushieno/lv2-midi2)
 
 ## LV2
 
