@@ -1,8 +1,10 @@
 # atsushieno's live github repos
 
-(It is not my CV, so I don't list anything other than my repos, therefore no mention on past Mono and Xamarin bits. No mention on things outside github such as [tech books](https://xamaritans.booth.pm/) or [session talks](https://speakerdeck.com/atsushieno). If you are interested in working together let me know.)
+(It is not my CV, so I don't list anything other than my repos, therefore no mention on past Mono and Xamarin bits. No mention on things outside github such as [tech books](https://xamaritans.booth.pm/) or [session talks](https://speakerdeck.com/atsushieno). If you are interested in working on audio projects together let me know.)
 
 I am reachable as @atsushieno on mastodon.cloud, twitter, or facebook. I'm also lurking around some audio dev. discord servers e.g. [theaudioprogrammer](https://theaudioprogrammer.com/)
+
+Most of Kotlin and/or C/C++ projects are maintained and I'm likely responsive. If you want my support on my C#/.NET projects, only paid supports are available. Pull requests are still welcome.
 
 ## Android Audio Plugin and related projects
 
