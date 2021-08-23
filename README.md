@@ -26,6 +26,7 @@ I used to develop C# library for MIDI access and SMF manipulation, and they are 
 | [![managed-midi stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=managed-midi)](https://github.com/atsushieno/managed-midi) | [![ktmidi stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=ktmidi)](https://github.com/atsushieno/ktmidi) |
 | [![alsa-sharp stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=alsa-sharp)](https://github.com/atsushieno/alsa-sharp) | [![alsakt stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=alsakt)](https://github.com/atsushieno/alsakt) [![rtmidi-jna stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=rtmidi-jna)](https://github.com/atsushieno/rtmidi-jna) |
 | [![mugene stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=mugene)](https://github.com/atsushieno/mugene) | [![mugene-ng stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=mugene-ng)](https://github.com/atsushieno/mugene-ng) |
+| [![augene stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=augene)](https://github.com/atsushieno/augene) | [![augene-ng stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=augene-ng)](https://github.com/atsushieno/augene-ng) |
 | [![xmmk stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=xmmk)](https://github.com/atsushieno/xmmk) | [![kmmk stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=kmmk)](https://github.com/atsushieno/kmmk) |
 | [![notium stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=notium)](https://github.com/atsushieno/notium) | [![notium-ng stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=notium-ng)](https://github.com/atsushieno/notium-ng) |
 | [xmdsp](https://github.com/atsushieno/xmdsp) / visual MIDI player, Xwt | (kmdsp?) |
@@ -38,7 +39,6 @@ I used to develop C# library for MIDI access and SMF manipulation, and they are 
 
 ## MML compiler related
 
-- [augene](https://github.com/atsushieno/augene) - MML compiler integration with tracktion_engine, MML to MIDI to tracktionedit with JUCE AudioPluginHost help.
 - [mugene-guide-book](https://github.com/atsushieno/mugene-guide-book) - book sources for MML Compiler mugene guide book (Japanese)
 
 ## LV2
