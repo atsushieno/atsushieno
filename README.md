@@ -4,7 +4,7 @@
 
 I am reachable as @atsushieno on mastodon.cloud, twitter, or facebook. I'm also lurking around some audio dev. discord servers e.g. [theaudioprogrammer](https://theaudioprogrammer.com/)
 
-Most of Kotlin and/or C/C++ projects are maintained and I'm likely responsive. If you want my support on my C#/.NET projects, only paid supports are available. Pull requests are still welcome.
+Most of Kotlin and/or C/C++ projects are maintained and I'm likely responsive. If you want my support on my C#/.NET projects, only paid supports are available. Pull requests with basic respect to the contributors are still welcome.
 
 ## Android Audio Plugin and related projects
 
