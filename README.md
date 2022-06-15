@@ -6,8 +6,6 @@ Most of Kotlin and/or C/C++ projects are maintained and I'm likely responsive. I
 
 ## Android Audio Plugin and related projects
 
-[![AAP demo 20200708](http://img.youtube.com/vi/gKCpHvYzupU/0.jpg)](http://www.youtube.com/watch?v=gKCpHvYzupU "AAP demo 20200708")
-
 [![android-audio-plugin-framework stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=android-audio-plugin-framework)](https://github.com/atsushieno/android-audio-plugin-framework)
 [![aap-lv2 stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=aap-lv2)](https://github.com/atsushieno/aap-lv2)
 [![aap-juce stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=aap-juce)](https://github.com/atsushieno/aap-juce)
@@ -48,9 +46,3 @@ Seealso: http://juce-demos.atsushieno.dev/
 - [soundfont-player-cs](https://github.com/atsushieno/soundfont-player-cs) - Xwt-based desktop "soundfont player" that lets you choose and play soundfont programs using nfluidsynth, useful for picking up tones from a bunch of sf2/sf3 files in local directories.
 
 - [msfa-midi-device-service](https://github.com/atsushieno/msfa-midi-device-service) - MidiDeviceService for MSFA (music-synthesizer-for-Android)
-
-## Re:VIEW
-
-![vscode-language-review in action](https://raw.githubusercontent.com/atsushieno/vscode-language-review/master/docs/images/sshot-preview.png)
-
-[![vscode-language-review stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=vscode-language-review)](https://github.com/atsushieno/vscode-language-review)
