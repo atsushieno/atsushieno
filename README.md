@@ -4,9 +4,9 @@
 
 Most of Kotlin and/or C/C++ projects are maintained and I'm likely responsive. If you want my support on my C#/.NET projects, only paid supports are available. Pull requests with basic respect to the contributors are still welcome.
 
-## Android Audio Plugin and related projects
+## Audio Plugins For Android and related projects
 
-[![android-audio-plugin-framework stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=android-audio-plugin-framework)](https://github.com/atsushieno/android-audio-plugin-framework)
+[![aap-core stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=aap-core)](https://github.com/atsushieno/aap-core)
 [![aap-lv2 stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=aap-lv2)](https://github.com/atsushieno/aap-lv2)
 [![aap-juce stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=aap-juce)](https://github.com/atsushieno/aap-juce)
 [![android-native-audio-builders stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=android-native-audio-builders)](https://github.com/atsushieno/android-native-audio-builders)
