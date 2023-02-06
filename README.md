@@ -4,6 +4,8 @@
 
 Most of Kotlin and/or C/C++ projects are maintained and I'm likely responsive. If you want my support on my C#/.NET projects, only paid supports are available. Pull requests with basic respect to the contributors are still welcome.
 
+I am reachable [on Fediverse](https://g0v.social/web/home), [Android Audio Devs Discord](https://discord.gg/6AC3heft) or [theaudioprogrammer Discord](https://www.theaudioprogrammer.com/discord).
+
 ## Audio Plugins For Android and related projects
 
 [![aap-core stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=aap-core)](https://github.com/atsushieno/aap-core)
