@@ -4,7 +4,7 @@
 
 Most of Kotlin and/or C/C++ projects are maintained and I'm likely responsive. If you want my support on my C#/.NET projects, only paid supports are available. Pull requests with basic respect to the contributors are still welcome.
 
-I am reachable [on Fediverse](https://g0v.social/web/home), [Android Audio Devs Discord](https://discord.gg/6AC3heft) or [theaudioprogrammer Discord](https://www.theaudioprogrammer.com/discord).
+I am reachable [on Fediverse](https://g0v.social/@atsushieno), [Android Audio Devs Discord](https://discord.gg/6AC3heft) or [theaudioprogrammer Discord](https://www.theaudioprogrammer.com/discord).
 
 ## Audio Plugins For Android and related projects
 
@@ -25,6 +25,12 @@ There are 4+ aap-lv2 ports and >10 aap-juce ports in split repos too (including 
 [![kmmk stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=kmmk)](https://github.com/atsushieno/kmmk)
 
 ### Other music hacks
+
+[![android-ci-package-installer stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=android-ci-package-installer)](https://github.com/atsushieno/android-ci-package-installer) - APK installer app that installs from CI (GitHub Actions) releases and build artifacts
+
+[![libcxx-provider stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=libcxx-provider)](https://github.com/atsushieno/libcxx-provider) - mitigate `libc++_shared.so` handling in Android NDK projects.
+
+[![missing-dot stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=missing-dot)](https://github.com/atsushieno/missing-dot) - porting some .NET API to Kotlin (XmlReader/Writer and XLinq so far)
 
 [![cmidi2 stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=cmidi2)](https://github.com/atsushieno/cmidi2)
 
