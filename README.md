@@ -13,7 +13,7 @@ I am reachable [on Fediverse](https://g0v.social/@atsushieno), [Android Audio De
 [![aap-juce stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=aap-juce)](https://github.com/atsushieno/aap-juce)
 [![android-native-audio-builders stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=android-native-audio-builders)](https://github.com/atsushieno/android-native-audio-builders)
 
-There are 4+ aap-lv2 ports and >10 aap-juce ports in split repos too (including WIPs).
+I have a lot more AAP projects, listed on the [AAP Wiki page](https://github.com/atsushieno/aap-core/wiki/List-of-AAP-plugins-and-hosts).
 
 ## Kotlin Multiplatform MIDI 1.0/2.0 libraries and applications
 
