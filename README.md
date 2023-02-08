@@ -24,7 +24,7 @@ There are 4+ aap-lv2 ports and >10 aap-juce ports in split repos too (including 
 [![augene-ng stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=augene-ng)](https://github.com/atsushieno/augene-ng)
 [![kmmk stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=kmmk)](https://github.com/atsushieno/kmmk)
 
-### Other music hacks
+### Other music and misc. hacks
 
 [![android-ci-package-installer stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=android-ci-package-installer)](https://github.com/atsushieno/android-ci-package-installer) - APK installer app that installs from CI (GitHub Actions) releases and build artifacts
 
