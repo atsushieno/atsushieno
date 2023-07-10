@@ -1,8 +1,6 @@
 # atsushieno's live github repos
 
-(It is not my CV, so I don't list anything other than my repos, therefore no mention on past Mono and Xamarin bits. No mention on things outside github such as [tech books](https://xamaritans.booth.pm/) or [session talks](https://speakerdeck.com/atsushieno). If you are interested in working on audio projects together let me know.)
-
-Most of Kotlin and/or C/C++ projects are maintained and I'm likely responsive. If you want my support on my C#/.NET projects, only paid supports are available. Pull requests with basic respect to the contributors are still welcome.
+Most of Kotlin and/or C/C++ projects are maintained and I'm most likely responsive. Projects for past languages are likely ignored except for pull requests.
 
 I am reachable [on Fediverse](https://g0v.social/@atsushieno), [Android Audio Devs Discord](https://discord.gg/6AC3heft) or [theaudioprogrammer Discord](https://www.theaudioprogrammer.com/discord).
 
@@ -25,6 +23,8 @@ I have a lot more AAP projects, listed on the [AAP Wiki page](https://github.com
 [![kmmk stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=kmmk)](https://github.com/atsushieno/kmmk)
 
 ### Other music and misc. hacks
+
+[![compose-audio-controls stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=compose-audio-controls)](https://github.com/atsushieno/compose-audio-controls)
 
 [![android-ci-package-installer stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=android-ci-package-installer)](https://github.com/atsushieno/android-ci-package-installer) - APK installer app that installs from CI (GitHub Actions) releases and build artifacts
 
