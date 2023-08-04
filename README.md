@@ -26,6 +26,8 @@ I have a lot more AAP projects, listed on the [AAP Wiki page](https://github.com
 
 [![compose-audio-controls stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=compose-audio-controls)](https://github.com/atsushieno/compose-audio-controls)
 
+[![resident-midi-keyboard stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=resident-midi-keyboard)](https://github.com/atsushieno/resident-midi-keyboard)
+
 [![android-ci-package-installer stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=android-ci-package-installer)](https://github.com/atsushieno/android-ci-package-installer) - APK installer app that installs from CI (GitHub Actions) releases and build artifacts
 
 [![libcxx-provider stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=libcxx-provider)](https://github.com/atsushieno/libcxx-provider) - mitigate `libc++_shared.so` handling in Android NDK projects.
