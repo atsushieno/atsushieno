@@ -17,12 +17,14 @@ I have a lot more AAP projects, listed on the [AAP Wiki page](https://github.com
 
 [![ktmidi stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=ktmidi)](https://github.com/atsushieno/ktmidi)
 [![alsakt stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=alsakt)](https://github.com/atsushieno/alsakt)
-[![rtmidi-jna stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=rtmidi-jna)](https://github.com/atsushieno/rtmidi-jna)
+[![rtmidi-javacpp stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=rtmidi-javacpp)](https://github.com/atsushieno/rtmidi-javacpp)
 [![mugene-ng stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=mugene-ng)](https://github.com/atsushieno/mugene-ng)
 [![augene-ng stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=augene-ng)](https://github.com/atsushieno/augene-ng)
 [![kmmk stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=kmmk)](https://github.com/atsushieno/kmmk)
 
 ### Other music and misc. hacks
+
+[![cmidi2 stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=cmidi2)](https://github.com/atsushieno/cmidi2)
 
 [![compose-audio-controls stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=compose-audio-controls)](https://github.com/atsushieno/compose-audio-controls)
 
@@ -33,8 +35,6 @@ I have a lot more AAP projects, listed on the [AAP Wiki page](https://github.com
 [![libcxx-provider stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=libcxx-provider)](https://github.com/atsushieno/libcxx-provider) - mitigate `libc++_shared.so` handling in Android NDK projects.
 
 [![missing-dot stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=missing-dot)](https://github.com/atsushieno/missing-dot) - porting some .NET API to Kotlin (XmlReader/Writer and XLinq so far)
-
-[![cmidi2 stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=cmidi2)](https://github.com/atsushieno/cmidi2)
 
 [mugene-guide-book](https://github.com/atsushieno/mugene-guide-book) - book sources for MML Compiler mugene guide book (Japanese)
 
