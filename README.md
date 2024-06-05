@@ -20,7 +20,7 @@ I have a lot more AAP projects, listed on the [AAP Wiki page](https://github.com
 [![rtmidi-javacpp stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=rtmidi-javacpp)](https://github.com/atsushieno/rtmidi-javacpp)
 [![mugene-ng stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=mugene-ng)](https://github.com/atsushieno/mugene-ng)
 [![augene-ng stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=augene-ng)](https://github.com/atsushieno/augene-ng)
-[![kmmk stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=kmmk)](https://github.com/atsushieno/kmmk)
+[![resident-midi-keyboard stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=resident-midi-keyboard)](https://github.com/atsushieno/resident-midi-keyboard)
 
 ### Other music and misc. hacks
 
