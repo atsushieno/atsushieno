@@ -16,7 +16,7 @@ I have a lot more AAP projects, listed on the [AAP Wiki page](https://github.com
 ## Kotlin Multiplatform MIDI 1.0/2.0 libraries and applications
 
 [![ktmidi stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=ktmidi)](https://github.com/atsushieno/ktmidi)
-[![alsakt stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=alsakt)](https://github.com/atsushieno/alsakt)
+[![alsa-javacpp stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=alsa-javacpp)](https://github.com/atsushieno/alsa-javacpp)
 [![rtmidi-javacpp stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=rtmidi-javacpp)](https://github.com/atsushieno/rtmidi-javacpp)
 [![mugene-ng stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=mugene-ng)](https://github.com/atsushieno/mugene-ng)
 [![augene-ng stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=augene-ng)](https://github.com/atsushieno/augene-ng)
