@@ -28,8 +28,6 @@ I have a lot more AAP projects, listed on the [AAP Wiki page](https://github.com
 
 [![compose-audio-controls stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=compose-audio-controls)](https://github.com/atsushieno/compose-audio-controls)
 
-[![resident-midi-keyboard stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=resident-midi-keyboard)](https://github.com/atsushieno/resident-midi-keyboard)
-
 [![libcxx-provider stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=libcxx-provider)](https://github.com/atsushieno/libcxx-provider) - mitigate `libc++_shared.so` handling in Android NDK projects.
 
 [![missing-dot stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=missing-dot)](https://github.com/atsushieno/missing-dot) - porting some .NET API to Kotlin (XmlReader/Writer and XLinq so far)
