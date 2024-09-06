@@ -17,7 +17,9 @@ I have a lot more AAP projects, listed on the [AAP Wiki page](https://github.com
 
 [![ktmidi stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=ktmidi)](https://github.com/atsushieno/ktmidi)
 [![alsa-javacpp stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=alsa-javacpp)](https://github.com/atsushieno/alsa-javacpp)
+[![libremidi-javacpp stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=libremidi-javacpp)](https://github.com/atsushieno/libremidi-javacpp)
 [![rtmidi-javacpp stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=rtmidi-javacpp)](https://github.com/atsushieno/rtmidi-javacpp)
+[![kmdsp stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=kmdsp)](https://github.com/atsushieno/kmdsp)
 [![mugene-ng stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=mugene-ng)](https://github.com/atsushieno/mugene-ng)
 [![augene-ng stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=augene-ng)](https://github.com/atsushieno/augene-ng)
 [![resident-midi-keyboard stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=resident-midi-keyboard)](https://github.com/atsushieno/resident-midi-keyboard)
