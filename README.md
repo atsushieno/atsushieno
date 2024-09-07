@@ -13,7 +13,7 @@ I am reachable [on Fediverse](https://g0v.social/@atsushieno), [Android Audio De
 
 I have a lot more AAP projects, listed on the [AAP Wiki page](https://github.com/atsushieno/aap-core/wiki/List-of-AAP-plugins-and-hosts).
 
-## Kotlin Multiplatform MIDI 1.0/2.0 libraries and applications
+## Kotlin Multiplatform Music libraries and applications
 
 [![ktmidi stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=ktmidi)](https://github.com/atsushieno/ktmidi)
 [![alsa-javacpp stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=alsa-javacpp)](https://github.com/atsushieno/alsa-javacpp)
@@ -22,13 +22,12 @@ I have a lot more AAP projects, listed on the [AAP Wiki page](https://github.com
 [![kmdsp stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=kmdsp)](https://github.com/atsushieno/kmdsp)
 [![mugene-ng stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=mugene-ng)](https://github.com/atsushieno/mugene-ng)
 [![augene-ng stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=augene-ng)](https://github.com/atsushieno/augene-ng)
+[![compose-audio-controls stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=compose-audio-controls)](https://github.com/atsushieno/compose-audio-controls)
 [![resident-midi-keyboard stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=resident-midi-keyboard)](https://github.com/atsushieno/resident-midi-keyboard)
 
 ### Other music and misc. hacks
 
 [![cmidi2 stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=cmidi2)](https://github.com/atsushieno/cmidi2)
-
-[![compose-audio-controls stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=compose-audio-controls)](https://github.com/atsushieno/compose-audio-controls)
 
 [![libcxx-provider stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=libcxx-provider)](https://github.com/atsushieno/libcxx-provider) - mitigate `libc++_shared.so` handling in Android NDK projects.
 
