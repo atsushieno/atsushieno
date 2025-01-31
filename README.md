@@ -1,8 +1,8 @@
 # atsushieno's live github repos
 
-Most of Kotlin and/or C/C++ projects are maintained and I'm most likely responsive. Projects for past languages are likely ignored except for pull requests.
+Most of Kotlin and/or C/C++ projects are maintained and I'm most likely responsive. Projects for past languages are likely ignored except for pull requests. Starting 2025, I am willing only to contribute to respectful projects that welcome bug reporting and pull requests.
 
-I am reachable [on Fediverse](https://g0v.social/@atsushieno), [Android Audio Devs Discord](https://discord.gg/6AC3heft) or [theaudioprogrammer Discord](https://www.theaudioprogrammer.com/discord).
+I am reachable Bluesky, Fediverse, [Android Audio Devs Discord](https://discord.gg/6AC3heft) or Discord in general (see those profile items).
 
 ## Audio Plugins For Android and related projects
 
