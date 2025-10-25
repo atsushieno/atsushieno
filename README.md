@@ -23,6 +23,10 @@ It is backed by semi-auto-translated C++ MIDI-CI implementation from atsushieno/
 
 [![midicci stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=midicci)](https://github.com/atsushieno/midicci)
 
+cmidi2: single-header realtime-safe MIDI 2.0 binary processor C library. You can also use it with [libremidi](https://github.com/celtera/libremidi) (which includes cmidi2).
+
+[![cmidi2 stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=cmidi2)](https://github.com/atsushieno/cmidi2)
+
 ## Kotlin Multiplatform Music libraries and applications
 
 [![ktmidi stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=ktmidi)](https://github.com/atsushieno/ktmidi)
@@ -36,8 +40,6 @@ It is backed by semi-auto-translated C++ MIDI-CI implementation from atsushieno/
 [![kmmk stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=kmmk)](https://github.com/atsushieno/kmmk)
 
 ### Other music and misc. hacks
-
-[![cmidi2 stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=cmidi2)](https://github.com/atsushieno/cmidi2)
 
 [![libcxx-provider stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=libcxx-provider)](https://github.com/atsushieno/libcxx-provider) - mitigate `libc++_shared.so` handling in Android NDK projects.
 
