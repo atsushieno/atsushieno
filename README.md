@@ -13,6 +13,16 @@ I am reachable Bluesky, Fediverse, [Android Audio Devs Discord](https://discord.
 
 I have a lot more AAP projects, listed on the [AAP Wiki page](https://github.com/atsushieno/aap-core/wiki/List-of-AAP-plugins-and-hosts).
 
+## Desktop MIDI 2.0 hacks
+
+UAPMD: Use your favorite VST3/AU/LV2/CLAP synth plugin as a MIDI 2.0 device. It comes with its own MIT-licensed cross-platform and multi-format audio plugin hosting implementation (`remidy`).
+
+[![uapmd stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=uapmd)](https://github.com/atsushieno/uapmd)
+
+It is backed by semi-auto-translated C++ MIDI-CI implementation from atsushieno/ktmidi using Claude Code.
+
+[![midicci stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=midicci)](https://github.com/atsushieno/midicci)
+
 ## Kotlin Multiplatform Music libraries and applications
 
 [![ktmidi stats](https://github-readme-stats.vercel.app/api/pin/?username=atsushieno&repo=ktmidi)](https://github.com/atsushieno/ktmidi)
