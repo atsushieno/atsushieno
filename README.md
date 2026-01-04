@@ -6,16 +6,8 @@ I am reachable on Bluesky, Fediverse, [Android Audio Devs Discord](https://disco
 
 ## Desktop MIDI 2.0 hacks
 
-UAPMD: Use your favorite VST3/AU/LV2/CLAP synth plugin as a MIDI 2.0 device. It comes with its own MIT-licensed cross-platform and multi-format audio plugin hosting implementation (`remidy`).
-
 [![uapmd stats](https://github-readme-stats-ashy-one-68.vercel.app/api/pin/?username=atsushieno&repo=uapmd)](https://github.com/atsushieno/uapmd)
-
-It is backed by semi-auto-translated C++ MIDI-CI implementation from atsushieno/ktmidi using Claude Code.
-
 [![midicci stats](https://github-readme-stats-ashy-one-68.vercel.app/api/pin/?username=atsushieno&repo=midicci)](https://github.com/atsushieno/midicci)
-
-cmidi2: single-header realtime-safe MIDI 2.0 binary processor C library. You can also use it with [libremidi](https://github.com/celtera/libremidi) (which includes cmidi2).
-
 [![cmidi2 stats](https://github-readme-stats-ashy-one-68.vercel.app/api/pin/?username=atsushieno&repo=cmidi2)](https://github.com/atsushieno/cmidi2)
 
 ## Audio Plugins For Android and related projects
