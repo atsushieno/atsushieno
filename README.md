@@ -6,7 +6,6 @@ I am reachable on Bluesky, Fediverse, [Android Audio Devs Discord](https://disco
 
 ## Desktop MIDI 2.0 hacks
 
-![uapmd v0.3 sshot](https://github.com/atsushieno/uapmd/blob/main/docs/images/uapmd-app-v0.3-sshot.png?raw=true)
 ![uapmd v0.1 sshot](https://github.com/atsushieno/uapmd/blob/main/docs/images/uapmd-app-v0.1-sshot.png?raw=true)
 
 [![uapmd stats](https://github-readme-stats-ashy-one-68.vercel.app/api/pin/?username=atsushieno&repo=uapmd)](https://github.com/atsushieno/uapmd)
@@ -14,6 +13,8 @@ I am reachable on Bluesky, Fediverse, [Android Audio Devs Discord](https://disco
 [![cmidi2 stats](https://github-readme-stats-ashy-one-68.vercel.app/api/pin/?username=atsushieno&repo=cmidi2)](https://github.com/atsushieno/cmidi2)
 
 ## Audio Plugins For Android and related projects
+
+![uapmd v0.3 sshot](https://github.com/atsushieno/uapmd/blob/main/docs/images/uapmd-app-v0.3-sshot.png?raw=true)
 
 [![aap-core stats](https://github-readme-stats-ashy-one-68.vercel.app/api/pin/?username=atsushieno&repo=aap-core)](https://github.com/atsushieno/aap-core)
 [![aap-lv2 stats](https://github-readme-stats-ashy-one-68.vercel.app/api/pin/?username=atsushieno&repo=aap-lv2)](https://github.com/atsushieno/aap-lv2)
