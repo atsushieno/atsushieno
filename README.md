@@ -14,12 +14,14 @@ I am reachable on Bluesky, Fediverse, [Android Audio Devs Discord](https://disco
 
 ## Audio Plugins For Android and related projects
 
-![uapmd v0.3 sshot](https://github.com/atsushieno/uapmd/blob/main/docs/images/uapmd-app-v0.3-sshot.png?raw=true)
+![uapmd v0.4 sshot](https://github.com/atsushieno/uapmd/blob/main/docs/images/uapmd-app-v0.4-sshot.png?raw=true)
 
 [![aap-core stats](https://github-readme-stats-ashy-one-68.vercel.app/api/pin/?username=atsushieno&repo=aap-core)](https://github.com/atsushieno/aap-core)
 [![aap-lv2 stats](https://github-readme-stats-ashy-one-68.vercel.app/api/pin/?username=atsushieno&repo=aap-lv2)](https://github.com/atsushieno/aap-lv2)
 [![aap-juce stats](https://github-readme-stats-ashy-one-68.vercel.app/api/pin/?username=atsushieno&repo=aap-juce)](https://github.com/atsushieno/aap-juce)
-[![android-ci-package-installer stats](https://github-readme-stats-ashy-one-68.vercel.app/api/pin/?username=atsushieno&repo=android-ci-package-installer)](https://github.com/atsushieno/android-ci-package-installer) - APK installer app that installs from CI (GitHub Actions) releases and build artifacts
+[![android-ci-package-installer stats](https://github-readme-stats-ashy-one-68.vercel.app/api/pin/?username=atsushieno&repo=android-ci-package-installer)](https://github.com/atsushieno/android-ci-package-installer)
+[![aap-clap-hosting-helper stats](https://github-readme-stats-ashy-one-68.vercel.app/api/pin/?username=atsushieno&repo=aap-clap-hosting-helper)](https://github.com/atsushieno/aap-clap-hosting-helper)
+[![aap-ara stats](https://github-readme-stats-ashy-one-68.vercel.app/api/pin/?username=atsushieno&repo=aap-ara)](https://github.com/atsushieno/aap-ara)
 
 I have a lot more AAP projects, listed on the [AAP Wiki page](https://github.com/atsushieno/aap-core/wiki/List-of-AAP-plugins-and-hosts).
 
