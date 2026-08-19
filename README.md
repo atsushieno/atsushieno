@@ -8,46 +8,46 @@ I am reachable on Bluesky, Fediverse, [Android Audio Devs Discord](https://disco
 
 ![uapmd v0.1 sshot](https://github.com/atsushieno/uapmd/blob/main/docs/images/uapmd-app-v0.1-sshot.png?raw=true)
 
-[![uapmd stats](https://github-stats-extended.vercel.app/api?username=atsushieno&repo=uapmd)](https://github.com/atsushieno/uapmd)
-[![midicci stats](https://github-stats-extended.vercel.app/api?username=atsushieno&repo=midicci)](https://github.com/atsushieno/midicci)
-[![cmidi2 stats](https://github-stats-extended.vercel.app/api?username=atsushieno&repo=cmidi2)](https://github.com/atsushieno/cmidi2)
+[![uapmd stats](https://github-stats-extended.vercel.app/api/pin/?show_owner=true&description_lines_count=3&theme=transparent&show_owner=true&description_lines_count=3&theme=transparent&username=atsushieno&repo=uapmd)](https://github.com/atsushieno/uapmd)
+[![midicci stats](https://github-stats-extended.vercel.app/api/pin/?show_owner=true&description_lines_count=3&theme=transparent&username=atsushieno&repo=midicci)](https://github.com/atsushieno/midicci)
+[![cmidi2 stats](https://github-stats-extended.vercel.app/api/pin/?show_owner=true&description_lines_count=3&theme=transparent&username=atsushieno&repo=cmidi2)](https://github.com/atsushieno/cmidi2)
 
 ## Audio Plugins For Android and related projects
 
 ![uapmd v0.4 sshot](https://github.com/atsushieno/uapmd/blob/main/docs/images/uapmd-app-v0.4-sshot.png?raw=true)
 
-[![aap-core stats](https://github-stats-extended.vercel.app/api?username=atsushieno&repo=aap-core)](https://github.com/atsushieno/aap-core)
-[![aap-lv2 stats](https://github-stats-extended.vercel.app/api?username=atsushieno&repo=aap-lv2)](https://github.com/atsushieno/aap-lv2)
-[![aap-juce stats](https://github-stats-extended.vercel.app/api?username=atsushieno&repo=aap-juce)](https://github.com/atsushieno/aap-juce)
-[![android-ci-package-installer stats](https://github-stats-extended.vercel.app/api?username=atsushieno&repo=android-ci-package-installer)](https://github.com/atsushieno/android-ci-package-installer)
-[![aap-clap-hosting-helper stats](https://github-stats-extended.vercel.app/api?username=atsushieno&repo=aap-clap-hosting-helper)](https://github.com/atsushieno/aap-clap-hosting-helper)
-[![aap-ara stats](https://github-stats-extended.vercel.app/api?username=atsushieno&repo=aap-ara)](https://github.com/atsushieno/aap-ara)
+[![aap-core stats](https://github-stats-extended.vercel.app/api/pin/?show_owner=true&description_lines_count=3&theme=transparent&username=atsushieno&repo=aap-core)](https://github.com/atsushieno/aap-core)
+[![aap-lv2 stats](https://github-stats-extended.vercel.app/api/pin/?show_owner=true&description_lines_count=3&theme=transparent&username=atsushieno&repo=aap-lv2)](https://github.com/atsushieno/aap-lv2)
+[![aap-juce stats](https://github-stats-extended.vercel.app/api/pin/?show_owner=true&description_lines_count=3&theme=transparent&username=atsushieno&repo=aap-juce)](https://github.com/atsushieno/aap-juce)
+[![android-ci-package-installer stats](https://github-stats-extended.vercel.app/api/pin/?show_owner=true&description_lines_count=3&theme=transparent&username=atsushieno&repo=android-ci-package-installer)](https://github.com/atsushieno/android-ci-package-installer)
+[![aap-clap-hosting-helper stats](https://github-stats-extended.vercel.app/api/pin/?show_owner=true&description_lines_count=3&theme=transparent&username=atsushieno&repo=aap-clap-hosting-helper)](https://github.com/atsushieno/aap-clap-hosting-helper)
+[![aap-ara stats](https://github-stats-extended.vercel.app/api/pin/?show_owner=true&description_lines_count=3&theme=transparent&username=atsushieno&repo=aap-ara)](https://github.com/atsushieno/aap-ara)
 
 I have a lot more AAP projects, listed on the [AAP Wiki page](https://github.com/atsushieno/aap-core/wiki/List-of-AAP-plugins-and-hosts).
 
 ## Kotlin Multiplatform Music libraries and applications
 
-[![ktmidi stats](https://github-stats-extended.vercel.app/api?username=atsushieno&repo=ktmidi)](https://github.com/atsushieno/ktmidi)
-[![compose-audio-controls stats](https://github-stats-extended.vercel.app/api?username=atsushieno&repo=compose-audio-controls)](https://github.com/atsushieno/compose-audio-controls)
-[![resident-midi-keyboard stats](https://github-stats-extended.vercel.app/api?username=atsushieno&repo=resident-midi-keyboard)](https://github.com/atsushieno/resident-midi-keyboard)
-[![libremidi-panama stats](https://github-stats-extended.vercel.app/api?username=atsushieno&repo=libremidi-panama)](https://github.com/atsushieno/libremidi-panama)
-[![alsa-javacpp stats](https://github-stats-extended.vercel.app/api?username=atsushieno&repo=alsa-javacpp)](https://github.com/atsushieno/alsa-javacpp)
-[![mugene-ng stats](https://github-stats-extended.vercel.app/api?username=atsushieno&repo=mugene-ng)](https://github.com/atsushieno/mugene-ng)
-[![augene-ng stats](https://github-stats-extended.vercel.app/api?username=atsushieno&repo=augene-ng)](https://github.com/atsushieno/augene-ng)
-[![kmdsp stats](https://github-stats-extended.vercel.app/api?username=atsushieno&repo=kmdsp)](https://github.com/atsushieno/kmdsp)
-[![kmmk stats](https://github-stats-extended.vercel.app/api?username=atsushieno&repo=kmmk)](https://github.com/atsushieno/kmmk)
+[![ktmidi stats](https://github-stats-extended.vercel.app/api/pin/?show_owner=true&description_lines_count=3&theme=transparent&username=atsushieno&repo=ktmidi)](https://github.com/atsushieno/ktmidi)
+[![compose-audio-controls stats](https://github-stats-extended.vercel.app/api/pin/?show_owner=true&description_lines_count=3&theme=transparent&username=atsushieno&repo=compose-audio-controls)](https://github.com/atsushieno/compose-audio-controls)
+[![resident-midi-keyboard stats](https://github-stats-extended.vercel.app/api/pin/?show_owner=true&description_lines_count=3&theme=transparent&username=atsushieno&repo=resident-midi-keyboard)](https://github.com/atsushieno/resident-midi-keyboard)
+[![libremidi-panama stats](https://github-stats-extended.vercel.app/api/pin/?show_owner=true&description_lines_count=3&theme=transparent&username=atsushieno&repo=libremidi-panama)](https://github.com/atsushieno/libremidi-panama)
+[![alsa-javacpp stats](https://github-stats-extended.vercel.app/api/pin/?show_owner=true&description_lines_count=3&theme=transparent&username=atsushieno&repo=alsa-javacpp)](https://github.com/atsushieno/alsa-javacpp)
+[![mugene-ng stats](https://github-stats-extended.vercel.app/api/pin/?show_owner=true&description_lines_count=3&theme=transparent&username=atsushieno&repo=mugene-ng)](https://github.com/atsushieno/mugene-ng)
+[![augene-ng stats](https://github-stats-extended.vercel.app/api/pin/?show_owner=true&description_lines_count=3&theme=transparent&username=atsushieno&repo=augene-ng)](https://github.com/atsushieno/augene-ng)
+[![kmdsp stats](https://github-stats-extended.vercel.app/api/pin/?show_owner=true&description_lines_count=3&theme=transparent&username=atsushieno&repo=kmdsp)](https://github.com/atsushieno/kmdsp)
+[![kmmk stats](https://github-stats-extended.vercel.app/api/pin/?show_owner=true&description_lines_count=3&theme=transparent&username=atsushieno&repo=kmmk)](https://github.com/atsushieno/kmmk)
 
 ### Other music and misc. hacks
 
-[![libcxx-provider stats](https://github-stats-extended.vercel.app/api?username=atsushieno&repo=libcxx-provider)](https://github.com/atsushieno/libcxx-provider) - mitigate `libc++_shared.so` handling in Android NDK projects.
+[![libcxx-provider stats](https://github-stats-extended.vercel.app/api/pin/?show_owner=true&description_lines_count=3&theme=transparent&username=atsushieno&repo=libcxx-provider)](https://github.com/atsushieno/libcxx-provider) - mitigate `libc++_shared.so` handling in Android NDK projects.
 
-[![missing-dot stats](https://github-stats-extended.vercel.app/api?username=atsushieno&repo=missing-dot)](https://github.com/atsushieno/missing-dot) - porting some .NET API to Kotlin (XmlReader/Writer and XLinq so far)
+[![missing-dot stats](https://github-stats-extended.vercel.app/api/pin/?show_owner=true&description_lines_count=3&theme=transparent&username=atsushieno&repo=missing-dot)](https://github.com/atsushieno/missing-dot) - porting some .NET API to Kotlin (XmlReader/Writer and XLinq so far)
 
 [mugene-guide-book](https://github.com/atsushieno/mugene-guide-book) - book sources for MML Compiler mugene guide book (Japanese)
 
 ![aqua sshot](https://raw.githubusercontent.com/atsushieno/aqua/main/aqua-lv2ui-in-action.png)
 
-[![aqua stats](https://github-stats-extended.vercel.app/api?username=atsushieno&repo=aqua)](https://github.com/atsushieno/aqua)
+[![aqua stats](https://github-stats-extended.vercel.app/api/pin/?show_owner=true&description_lines_count=3&theme=transparent&username=atsushieno&repo=aqua)](https://github.com/atsushieno/aqua)
 
 - https://github.com/atsushieno/cerbero/tree/aap has some hidden gems, namely the following forks
 - https://github.com/atsushieno/lilv/tree/android
