@@ -27,6 +27,7 @@ I have a lot more AAP projects, listed on the [AAP Wiki page](https://github.com
 
 ## Kotlin Multiplatform Music libraries and applications
 
+[![uapmd-kmp stats](https://github-stats-extended.vercel.app/api/pin/?show_owner=true&description_lines_count=3&theme=transparent&username=atsushieno&repo=uapmd-kmp)](https://github.com/atsushieno/uapmd-kmp)
 [![ktmidi stats](https://github-stats-extended.vercel.app/api/pin/?show_owner=true&description_lines_count=3&theme=transparent&username=atsushieno&repo=ktmidi)](https://github.com/atsushieno/ktmidi)
 [![compose-audio-controls stats](https://github-stats-extended.vercel.app/api/pin/?show_owner=true&description_lines_count=3&theme=transparent&username=atsushieno&repo=compose-audio-controls)](https://github.com/atsushieno/compose-audio-controls)
 [![resident-midi-keyboard stats](https://github-stats-extended.vercel.app/api/pin/?show_owner=true&description_lines_count=3&theme=transparent&username=atsushieno&repo=resident-midi-keyboard)](https://github.com/atsushieno/resident-midi-keyboard)
